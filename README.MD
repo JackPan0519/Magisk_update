@@ -1,4 +1,4 @@
-![](https://raw.fastgit.org/topjohnwu/Magisk/master/docs/images/logo.png)
+![](https://ghproxy.com/https://raw.githubusercontent.com/topjohnwu/Magisk/master/docs/images/logo.png)
 
 #### This is not an officially supported Google product
 
